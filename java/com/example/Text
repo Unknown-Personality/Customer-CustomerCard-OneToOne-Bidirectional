@@ -1,0 +1,11 @@
+
+    1<------------------>1
+Customer<------------->CustomerCard
+Inverse Side           Owning Side(Manage stores the FK)
+
+1]*
+2]*
+3]*
+4]*
+5]*
+6]*
